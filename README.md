@@ -15,7 +15,7 @@
 </ul>
 
 <p> I desire to build software that matters and can help people </p>
-<p> I hope you like what you see here, if you need to contact me please feel free to email me at the following email <a href="mailTo:aaronendsley@gmail.com">email</a> 
+<p> I hope you like what you see here, if you need to contact me please feel free to email me at the following <a href="mailTo:aaronendsley@gmail.com">email</a>, Spam will be ignored, have a great day!</p> 
 
 
 
