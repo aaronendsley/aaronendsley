@@ -1,6 +1,6 @@
 # Hi there 👋
-<h1 style="font-size: 1.7rem">Im a Web Developer from Lawton Oklahoma!</h1>
-<h2 style="font-size: 1.3rem">I am currently working in the following:</h2>
+<h1 style="font-size: 1.5rem">Im a Web Developer from Lawton Oklahoma!</h1>
+<h2 style="font-size: 1.2rem">I am currently using the following technologies:</h2>
 <ul style="font-size: .5rem">
   <li>Javascript</li> 
   <li>React</li>
@@ -8,7 +8,7 @@
   <li>NextJS</li>
 </ul>
 </hr>
-<h2 style="font-size: 1.3rem">Technology I am interested in integrating into my stack:</h2>
+<h2 style="font-size: 1.2rem">Technology I am interested in integrating into my stack:</h2>
 <ul style="font-size: .5rem">
     <li>TypeScript</li>
     <li>NodeJS</li>
