@@ -8,7 +8,7 @@
   <li>NextJS</li>
 </ul>
 </hr>
-<h2>Technology I am interested in Integrating into my stack:</h2>
+<h2>Technology I am interested in integrating into my stack:</h2>
 <ul>
     <li>TypeScript</li>
     <li>NodeJS</li>
