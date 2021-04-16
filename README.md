@@ -1,13 +1,7 @@
 # Hi there 👋
-
-<style>
-  h1{
-    font-size: 1.5rem;
-  }
-</style>
 <h1>Im a Web Developer from Lawton Oklahoma!</h1>
 <h2>I am currently working in the following:</h2>
-<ul style="font-size: .8rem">
+<ul style="font-size: .5rem">
   <li>Javascript</li> 
   <li>React</li>
   <li>GatsbyJS</li>
@@ -15,7 +9,7 @@
 </ul>
 </hr>
 <h2>Technology I am interested in integrating into my stack:</h2>
-<ul style="font-size: .8rem">
+<ul style="font-size: .5rem">
     <li>TypeScript</li>
     <li>NodeJS</li>
 </ul>
