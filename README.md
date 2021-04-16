@@ -1,4 +1,10 @@
 # Hi there 👋
+
+<style>
+  h1{
+    font-size: 1.5rem;
+  }
+</style>
 <h1>Im a Web Developer from Lawton Oklahoma!</h1>
 <h2>I am currently working in the following:</h2>
 <ul style="font-size: .8rem">
