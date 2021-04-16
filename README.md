@@ -1,7 +1,7 @@
 # Hi there 👋
-<h1>Im Aaron Endsley, a Web Developer from Lawton Oklahoma!</h1>
+<h1>Im a Web Developer from Lawton Oklahoma!</h1>
 <h2>I am currently working in the following:</h2>
-<ul>
+<ul style="font-size: .8rem">
   <li>Javascript</li> 
   <li>React</li>
   <li>GatsbyJS</li>
@@ -9,7 +9,7 @@
 </ul>
 </hr>
 <h2>Technology I am interested in integrating into my stack:</h2>
-<ul>
+<ul style="font-size: .8rem">
     <li>TypeScript</li>
     <li>NodeJS</li>
 </ul>
