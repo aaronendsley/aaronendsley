@@ -5,7 +5,7 @@
   <li>Javascript</li> 
   <li>React</li>
   <li>GatsbyJS</li>
-  <li>NextJS</li>
+  <li>SvelteJS</li>
 </ul>
 </hr>
 <h2 style="font-size: 1.2rem">Technology I am interested in integrating into my stack:</h2>
