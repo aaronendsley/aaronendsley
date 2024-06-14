@@ -4,7 +4,7 @@
 <ul style="font-size: .5rem">
   <li>Javascript</li> 
   <li>React</li>
-  <li>GatsbyJS</li>
+  <li>AstroJS</li>
   <li>SvelteJS</li>
 </ul>
 </hr>
